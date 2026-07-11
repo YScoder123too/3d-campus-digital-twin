@@ -94,7 +94,7 @@ The catch? **We had zero prior experience with Three.js, GSAP, or 3D modeling go
 
 | Member | Role |
 |--------|------|
-| **Yogita Sharma** | 3D Scene, Component Architecture, UI |
+| **Yogita Singh** | 3D Scene, Component Architecture, UI |
 | **Tanishq Pal** | Logic, Integration, Animations |
 
 ---
