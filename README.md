@@ -4,6 +4,12 @@
 
 ---
 
+## 🎥 Live Demo
+
+🔗 **[View Live →]([https://your-vercel-link.vercel.app](https://3d-campus-digital-twin.vercel.app/))**
+
+---
+
 ## ✨ What is this?
 
 A fully interactive **3D Digital Twin** of Geeta University's campus, where users can explore buildings, switch between departments, and experience the campus in a completely new way — right from their browser.
