@@ -6,7 +6,7 @@
 
 ## 🎥 Live Demo
 
-🔗 **[View Live →]([https://your-vercel-link.vercel.app](https://3d-campus-digital-twin.vercel.app/))**
+🔗 **[View Live →](https://3d-campus-digital-twin.vercel.app/)**
 
 ---
 
